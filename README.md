@@ -1,4 +1,4 @@
-# financial analysis tools
+# Financial analysis tools
 
 Project steps:
 1. Visualize individual stock data, calculate percentage daily returns and analyze market trends;
